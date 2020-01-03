@@ -14,6 +14,8 @@ way to update this template, but currently, we follow a pattern:
 
 ## Upcoming version 2019-XX-XX
 
+- [change] Add `handlebars` 4.5.3 and `serialize-javascript` 2.1.1 to resolutions in `package.json`.
+  [#1251](https://github.com/sharetribe/ftw-daily/pull/1251)
 - [fix] Fix `console.warn` functions. [#1252](https://github.com/sharetribe/ftw-daily/pull/1252)
 - [fix] Add missing countries (e.g. MX and JP) to `StripeBankAccountTokenInput` validations.
   [#1250](https://github.com/sharetribe/ftw-daily/pull/1250)
